@@ -279,7 +279,7 @@ details[open] summary {
       .estrellas button .linea_tiempo {
         visibility: visible;
         display: block;
-        width: 145rem;
+        width: 120rem;
         transform: translateY(3rem);
         transition: all .2s ease-in-out;
         height: 50rem; } }
@@ -513,22 +513,19 @@ form {
   background-image: url(../imagen/clonewars.jpg);
   background-repeat: no-repeat;
   background-position: top center;
-  background-size: cover;
-  height: 80rem; }
+  background-size: cover; }
 
 .serie-2 {
   background-image: url(../imagen/rebels.jpg);
   background-repeat: no-repeat;
   background-position: center;
-  background-size: cover;
-  height: 80rem; }
+  background-size: cover; }
 
 .serie-3 {
   background-image: url(../imagen/mandaloriano2.jpg);
   background-repeat: no-repeat;
   background-position: center;
-  background-size: cover;
-  height: 80rem; }
+  background-size: cover; }
 
 .triologia__original {
   background-image: url(../imagen/lukevsvader.jpg);
